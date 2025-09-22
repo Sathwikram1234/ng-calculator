@@ -6,7 +6,7 @@ This is a fully functional, responsive calculator web application built with mod
 
 ## ✨ Live Demo on Vercel ✨
 
-[Live Demo]()
+[Live Demo](https://ng-calculator-themes.vercel.app/)
 
 ---
 
