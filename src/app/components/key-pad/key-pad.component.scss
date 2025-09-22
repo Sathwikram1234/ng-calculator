@@ -1,0 +1,64 @@
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  background-color: var(--bg-secondary);
+  border-radius: var(--radius);
+
+  gap: 0.8rem;
+  padding: 1.5rem;
+
+  @media (min-width: 600px) {
+    padding: 2rem 1.88rem;
+    gap: 1.56rem;
+  }
+}
+
+.key {
+  border: none;
+  border-radius: var(--radius);
+
+  height: 4rem;
+
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  cursor: pointer;
+
+  transition: all 0.1s ease-in-out;
+
+  &.ordinary {
+    background: var(--button-bg);
+    box-shadow: 0 -4px 0 0 var(--button-shadow) inset;
+
+    color: var(--button-color);
+    font-size: 2.5rem;
+    letter-spacing: -0.04169rem;
+  }
+
+  &.special {
+    color: #fff;
+    font-size: 1.75rem;
+    letter-spacing: -0.02919rem;
+  }
+
+  &.action {
+    background: var(--button-action);
+    box-shadow: 0 -4px 0 0 var(--button-action-shadow) inset;
+  }
+
+  &.equals {
+    background: var(--button-equal);
+    box-shadow: 0 -4px 0 0 var(--button-equal-shadow) inset;
+  }
+
+  &.span-2 {
+    grid-column: span 2;
+  }
+
+  &:active {
+    transform: translateY(4px);
+    box-shadow: none;
+    box-shadow: 0 0px 0 0 var(--button-shadow) inset;
+  }
+}

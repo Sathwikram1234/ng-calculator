@@ -1,0 +1,8 @@
+<div class="keypad">
+  @for(key of keys; track key){
+
+  <button (click)="keyEmitter.emit(key)" [class]="getKeyClass(key)">
+    {{ key === "*" ? "x" : key }}
+  </button>
+  }
+</div>
