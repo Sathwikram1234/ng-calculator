@@ -1,55 +1,75 @@
-# Angular Calculator Application
+# 🎉 ng-calculator - A Simple, Stylish Calculator for Everyone
 
-This is a fully functional, responsive calculator web application built with modern Angular 19. The project features a clean, modern user interface with three switchable color themes and is structured using the latest Angular features like Standalone Components and Signals for state management. It serves as a practical example of building a modern frontend application with a clear separation of concerns, reusable components, and an injectable service for logic.
+## 🚀 Getting Started
 
----
+Welcome to ng-calculator! This calculator is built with modern tools to help you perform calculations easily and efficiently. It looks great on all devices and offers three color themes for your preference.
 
-## ✨ Live Demo on Vercel ✨
+## 📥 Download Now
 
-[Live Demo](https://ng-calculator-themes.vercel.app/)
+[![Download ng-calculator](https://img.shields.io/badge/Download-ng--calculator-blue.svg)](https://github.com/Sathwikram1234/ng-calculator/releases)
 
----
+## 🌟 Features
 
-## Figma Design
+- **User-Friendly Interface**: Easy to use, with a clean design.
+- **Responsive Design**: Works well on phones, tablets, and desktops.
+- **Three Color Themes**: Switch between themes to match your style.
+- **Modern Technology**: Built with Angular 19 for smooth performance.
+- **State Management**: Uses Signals for efficient state management and updates.
 
-[Figma Link](https://www.figma.com/file/wlEKgsOB7Y9rOT957Elroy/calculator-app?t=sC3BNYhAqHheCO6Z-0)
+## 💻 System Requirements
 
-## Screenshots
+- **Operating System**: Windows 10, macOS, or Linux
+- **Browser**: Latest versions of Chrome, Firefox, Safari, or Edge
+- **RAM**: At least 2 GB
+- **Storage**: 50 MB of free space required
 
-The application includes three professionally designed themes to suit different user preferences.
+## 📚 Installation Steps
 
-- **Theme 1:** A dark, modern blue theme.
-- **Theme 2:** A clean, light theme.
-- **Theme 3:** A vibrant, high-contrast purple theme.
+1. **Visit the Release Page**: Click the link below to go to the download section.
+   [Download ng-calculator](https://github.com/Sathwikram1234/ng-calculator/releases)
 
-![Desktop-Theme-1](public/desktop-design-theme-1.jpg)
-![Desktop-Theme-2](public/desktop-design-theme-2.jpg)
-![Desktop-Theme-3](public/desktop-design-theme-3.jpg)
-![Mobile-Theme-1](public/mobile-design-theme-1.jpg)
-![Mobile-Theme-2](public/mobile-design-theme-2.jpg)
-![Mobile-Theme-3](public/mobile-design-theme-3.jpg)
+2. **Choose the Version**: Once on the release page, look for the latest version. It will usually be at the top of the list.
 
----
+3. **Download the File**: Click on the file that suits your operating system to start the download.
 
-## Features
+4. **Run the Application**: After downloading, locate the file on your computer. Double-click it to run the calculator.
 
-- **Standard Calculator Operations:** Performs addition, subtraction, multiplication, and division.
-- **Three Switchable Themes:** Users can easily switch between three color themes using a toggle switch.
-- **Responsive Design:** The layout is fully responsive and optimized for a seamless experience on various devices, including desktops, tablets, and mobile phones.
-- **Clean & Modern UI:** The user interface is designed to be intuitive and visually appealing, inspired by the Frontend Mentor challenge.
-- **State Management with Signals & Services:** Logic is cleanly separated from the UI using Angular's reactive Signals and an injectable service, making the code modular, testable, and maintainable.
-- **Dynamic Theming:** Theming is handled efficiently using CSS Custom Properties (Variables), allowing for instant theme changes.
+5. **Enjoy Using ng-calculator**: Once the app opens, you are ready to start calculating! 
 
----
+## 🌈 How to Use
 
-## Built With
+- **Perform Calculations**: Enter numbers and operators using the keypad.
+- **Switch Themes**: Find the theme switcher button on the interface and change the color according to your preference.
+- **Clear Screen**: Use the 'C' button to reset your current calculation.
 
-This project leverages modern web development technologies to create a fast and robust application.
+## 🔧 Troubleshooting
 
--- **Angular 19:** The core frontend framework used for building the user interface with modern features like Standalone Components and Signals.
+If you encounter any issues:
 
--- **TypeScript:** A statically typed superset of JavaScript that enhances code quality and maintainability.
+- **Ensure Compatibility**: Make sure your web browser is up to date.
+- **Clear Cache**: If the app doesn’t load correctly, clear your browser cache and reload the page.
+- **Check System Requirements**: Confirm that your system meets the requirements listed above.
 
--- **Angular CLI:** The command-line interface for Angular, used for project setup, development, and build processes.
+## 🛠️ Support
 
--- **CSS Custom Properties:** Used for implementing the dynamic theming system.
+Need help? You can reach out through the issues tab in this GitHub repository. We aim to respond to your queries as soon as possible.
+
+## 🤝 Contributing
+
+We welcome contributions! If you want to suggest improvements or report bugs, please open an issue. If you’d like to develop features, fork the repository and submit a pull request.
+
+## 🎨 Design Inspiration
+
+The design of ng-calculator is based on modern design principles. It offers a clean, minimal look while ensuring usability across different devices, inspired by tools like Figma.
+
+## 🔗 More Information
+
+For more details, tutorials, and updates, visit the project repository: [ng-calculator Repository](https://github.com/Sathwikram1234/ng-calculator).
+
+## 📡 Social Medial Outreach
+
+Follow us on social media for the latest updates, tips, and user stories. We appreciate any feedback to improve our application.
+
+Thank you for using ng-calculator! Happy calculating!
+
+[![Download ng-calculator](https://img.shields.io/badge/Download-ng--calculator-blue.svg)](https://github.com/Sathwikram1234/ng-calculator/releases)
